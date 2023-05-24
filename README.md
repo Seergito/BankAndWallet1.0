@@ -19,6 +19,8 @@
 
 Enlace a mi "Diario de desarrollo"- https://docs.google.com/document/d/1E_rr20lPaZOQ6tGOiLleEle4xvntnFNpCo1xULa9KWs/edit?usp=sharing
 
+Enlace a mi presentación en Canva - https://www.canva.com/design/DAFjW1BZFEw/FVG557_1sj_OBpe9jzw2Ag/edit?utm_content=DAFjW1BZFEw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Toda la documentación útilizada se encuentra en el diario de desarrollo, además de todos los pasos realizados cada día y problemas detectados resueltos y sin resolver.
 
 -Emuladores útilizados Samsung Galaxy S20, Iphone 13,Pixel3A
